@@ -37,15 +37,19 @@
 
 ## 📸 Giao diện ứng dụng thực tế (Screenshots)
 
-| Trang chủ (Dashboard) | Bộ lọc Lịch sử (History) |
-| :---: | :---: |
-| ![Dashboard Screen](docs/screenshots/01_dashboard_screen.png) | ![History Screen](docs/screenshots/02_history_screen.png) |
-| *Thẻ số dư tháng, phím Quét tích hợp chính giữa NavigationBar, danh sách giao dịch gần nhất.* | *Bộ lọc đa tầng (Tất cả / Chi / Thu / Danh mục) với InputChip xóa nhanh và từ khóa.* |
+<p align="center">
+  <img src="docs/screenshots/01_dashboard_screen.png" width="23%" alt="Trang chủ Dashboard" />
+  <img src="docs/screenshots/02_history_screen.png" width="23%" alt="Lịch sử giao dịch" />
+  <img src="docs/screenshots/03_statistics_screen.png" width="23%" alt="Biểu đồ thống kê Donut" />
+  <img src="docs/screenshots/04_settings_screen.png" width="23%" alt="Cài đặt và bảo mật" />
+</p>
 
-| Biểu đồ Thống kê (CustomPainter) | Cài đặt & Bản quyền VKU |
-| :---: | :---: |
-| ![Statistics Screen](docs/screenshots/03_statistics_screen.png) | ![Settings Screen](docs/screenshots/04_settings_screen.png) |
-| *Biểu đồ cột 7 ngày tự vẽ Canvas, phân bổ chi tiêu trực quan chuẩn định dạng tiếng Việt.* | *Tùy chọn giao diện SegmentedButton (Sáng/Tối/Hệ thống), cam kết 100% On-Device.* |
+| Màn hình | Tính năng nổi bật & Trải nghiệm người dùng |
+|:---|---|
+| **🏠 Trang chủ (Dashboard)** | Thẻ số dư tháng tổng hợp tự động thu/chi, phím Quét hóa đơn tích hợp chính giữa NavigationBar, danh sách giao dịch gần nhất tối ưu không tràn viền. |
+| **📑 Lịch sử giao dịch (History)** | Thanh tìm kiếm tức thì theo đơn vị/nội dung, bộ lọc đa tầng (Tất cả, Chi tiêu, Thu nhập, Danh mục) với chip xóa nhanh trực quan. |
+| **📊 Thống kê chi tiêu (Statistics)** | Biểu đồ hình vành khuyên (Donut Chart) tự vẽ 100% bằng Flutter `CustomPainter` & `AnimationController`, phân bổ tỷ lệ % và số tiền chi tiết từng danh mục. |
+| **⚙️ Cài đặt & Bản quyền (Settings)** | Chuyển đổi giao diện Sáng / Tối / Hệ thống bằng `SegmentedButton`, cam kết bảo mật 100% On-Device ngoại tuyến và thông tin đồ án VKU. |
 
 ---
 

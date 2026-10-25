@@ -76,15 +76,15 @@ lib/
 
 ## 4. EMPIRICAL EVIDENCE & SCREENSHOTS
 
-| Trang chủ (Dashboard) | Xác minh & Xem lại (Review Screen) |
+| Trang chủ (Dashboard) | Lịch sử giao dịch (History Screen) |
 | :---: | :---: |
-| ![Dashboard Screen](screenshots/01_dashboard_screen.png) | ![Review Screen](screenshots/02_history_screen.png) |
-| *Hình 1: Thẻ tổng kết số dư tháng, thanh điều hướng đáy tích hợp nút Quét ở giữa, danh sách chi tiêu gần nhất.* | *Hình 2: Bộ lọc lịch sử đa tầng (Tất cả, Chi tiêu, Thu nhập, Danh mục với InputChip xóa nhanh).* |
+| ![Dashboard Screen](screenshots/01_dashboard_screen.png) | ![History Screen](screenshots/02_history_screen.png) |
+| *Hình 1: Thẻ tổng kết số dư tháng, thanh điều hướng đáy tích hợp nút Quét ở giữa, danh sách chi tiêu gần nhất tối ưu không tràn viền.* | *Hình 2: Bộ lọc lịch sử đa tầng (Tất cả, Chi tiêu, Thu nhập, Danh mục với InputChip xóa nhanh) và thanh tìm kiếm tức thì.* |
 
-| Biểu đồ Thống kê (CustomPainter) | Cài đặt & Bảo mật On-Device |
+| Biểu đồ Thống kê (Donut Chart) | Cài đặt & Bảo mật On-Device |
 | :---: | :---: |
 | ![Statistics Screen](screenshots/03_statistics_screen.png) | ![Settings Screen](screenshots/04_settings_screen.png) |
-| *Hình 3: Biểu đồ cột 7 ngày gần nhất tự vẽ bằng Canvas API và chi tiết chi tiêu từng ngày chuẩn tiếng Việt.* | *Hình 4: Tùy chọn giao diện SegmentedButton, xác nhận xóa dữ liệu và cam kết 100% On-Device bảo mật.* |
+| *Hình 3: Biểu đồ hình vành khuyên (Donut Chart) tự vẽ 100% bằng Canvas API phân bổ tỷ lệ chi tiêu theo từng danh mục.* | *Hình 4: Tùy chọn giao diện SegmentedButton (Sáng/Tối/Hệ thống), cam kết 100% On-Device bảo mật và thông tin đồ án VKU.* |
 
 ---
 
