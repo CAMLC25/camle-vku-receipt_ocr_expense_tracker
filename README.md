@@ -37,19 +37,10 @@
 
 ## 📸 Giao diện ứng dụng thực tế (Screenshots)
 
-<p align="center">
-  <img src="docs/screenshots/01_dashboard_screen.png" width="23%" alt="Trang chủ Dashboard" />
-  <img src="docs/screenshots/02_history_screen.png" width="23%" alt="Lịch sử giao dịch" />
-  <img src="docs/screenshots/03_statistics_screen.png" width="23%" alt="Biểu đồ thống kê Donut" />
-  <img src="docs/screenshots/04_settings_screen.png" width="23%" alt="Cài đặt và bảo mật" />
-</p>
-
-| Màn hình | Tính năng nổi bật & Trải nghiệm người dùng |
-|:---|---|
-| **🏠 Trang chủ (Dashboard)** | Thẻ số dư tháng tổng hợp tự động thu/chi, phím Quét hóa đơn tích hợp chính giữa NavigationBar, danh sách giao dịch gần nhất tối ưu không tràn viền. |
-| **📑 Lịch sử giao dịch (History)** | Thanh tìm kiếm tức thì theo đơn vị/nội dung, bộ lọc đa tầng (Tất cả, Chi tiêu, Thu nhập, Danh mục) với chip xóa nhanh trực quan. |
-| **📊 Thống kê chi tiêu (Statistics)** | Biểu đồ hình vành khuyên (Donut Chart) tự vẽ 100% bằng Flutter `CustomPainter` & `AnimationController`, phân bổ tỷ lệ % và số tiền chi tiết từng danh mục. |
-| **⚙️ Cài đặt & Bản quyền (Settings)** | Chuyển đổi giao diện Sáng / Tối / Hệ thống bằng `SegmentedButton`, cam kết bảo mật 100% On-Device ngoại tuyến và thông tin đồ án VKU. |
+| 🏠 Trang chủ (Dashboard) | 📑 Lịch sử giao dịch | 📊 Thống kê chi tiêu | ⚙️ Cài đặt & Bản quyền |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/main/docs/screenshots/01_dashboard_screen.png" width="220" alt="Trang chủ Dashboard" /> | <img src="https://raw.githubusercontent.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/main/docs/screenshots/02_history_screen.png" width="220" alt="Lịch sử giao dịch" /> | <img src="https://raw.githubusercontent.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/main/docs/screenshots/03_statistics_screen.png" width="220" alt="Biểu đồ thống kê" /> | <img src="https://raw.githubusercontent.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/main/docs/screenshots/04_settings_screen.png" width="220" alt="Cài đặt và bảo mật" /> |
+| Thẻ số dư tháng tổng hợp tự động thu/chi, phím Quét hóa đơn tích hợp chính giữa NavigationBar, danh sách giao dịch không tràn viền. | Thanh tìm kiếm tức thì theo đơn vị/nội dung, bộ lọc đa tầng (Tất cả, Chi tiêu, Thu nhập, Danh mục) với chip xóa nhanh. | Biểu đồ hình vành khuyên (Donut Chart) tự vẽ 100% bằng Canvas API, phân bổ tỷ lệ % và số tiền chi tiết từng danh mục. | Chuyển đổi Theme Sáng / Tối / Hệ thống bằng `SegmentedButton`, cam kết bảo mật 100% On-Device và thông tin đồ án VKU. |
 
 ---
 
