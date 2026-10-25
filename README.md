@@ -39,11 +39,11 @@
 ## 🎬 Video Demo Trực Tiếp (Screen Recording)
 
 <p align="center">
-  <video src="https://github.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/raw/main/docs/demo.mp4" controls="controls" width="360" poster="https://raw.githubusercontent.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/main/docs/screenshots/01_dashboard_screen.png">
-    Trình duyệt của bạn không hỗ trợ phát video trực tiếp. Vui lòng xem tại <a href="https://youtube.com/shorts/90HkVXdvj50">YouTube Shorts</a>.
-  </video>
+  <img src="https://raw.githubusercontent.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/main/docs/demo.gif" width="300" alt="Video Demo Tự Động Chạy" />
   <br>
-  <em>▶️ Trải nghiệm thực tế quy trình quét hóa đơn tự động và quản lý chi tiêu. Xem thêm tại <a href="https://youtube.com/shorts/90HkVXdvj50" target="_blank">YouTube Shorts</a>.</em>
+  <em>▶️ Video demo tự động phát trực tiếp trên README (Quét hóa đơn & Quản lý thu chi 100% On-Device).</em>
+  <br>
+  <a href="https://youtube.com/shorts/90HkVXdvj50" target="_blank"><b>📺 Xem phiên bản đầy đủ trên YouTube Shorts</b></a>
 </p>
 
 ---
