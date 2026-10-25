@@ -10,7 +10,7 @@
 * **Student:** Lê Cảm — Student ID: 23IT022 — Role: Full-Stack Mobile Developer (Architecture, On-Device ML Kit OCR Engine, UI/UX & SQLite Data Layer) — Contribution: 100%
 * **🔗 Live Demo URL:** [https://github.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/releases/download/v1.0.0/app-release.apk]
 * **💻 GitHub Repository:** [https://github.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker]
-* **🎥 Video Demo (Optional):** [https://youtu.be/your-demo-video]
+* **🎥 Video Demo (Optional):** [https://youtube.com/shorts/90HkVXdvj50]
 
 ---
 

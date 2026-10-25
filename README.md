@@ -20,6 +20,7 @@
 * **Đơn vị đào tạo:** Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU) – Đại học Đà Nẵng
 * **🔗 GitHub Repository:** [https://github.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker](https://github.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker)
 * **📦 Tải APK Release:** [Download app-release.apk](https://github.com/CAMLC25/camle-vku-receipt_ocr_expense_tracker/releases/download/v1.0.0/app-release.apk)
+* **🎥 Video Demo:** [https://youtube.com/shorts/90HkVXdvj50](https://youtube.com/shorts/90HkVXdvj50)
 
 ---
 
